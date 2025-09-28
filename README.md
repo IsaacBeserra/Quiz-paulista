@@ -23,35 +23,3 @@ O sistema oferece questões de várias disciplinas, permitindo que os estudantes
 3. Clique no botão **Enviar** ao final do quiz.  
 4. O quiz irá redirecionar para `resultado.html`, onde você poderá conferir as respostas corretas.  
 5. Para adicionar ou modificar perguntas, edite diretamente o arquivo `trabalho.html`.
-
----
-
-## Critérios de Avaliação
-
-### Adequação ao Público Alvo
-O conteúdo do quiz foi elaborado especificamente para alunos do 1º ano do Ensino Médio, seguindo o programa do Provão Paulista.
-
-### Atendimento às Normas
-O projeto utiliza HTML puro, garantindo simplicidade, compatibilidade com todos os navegadores e acessibilidade básica.
-
-### Criatividade na Resolução de Problemas
-O sistema organiza perguntas de forma didática, simulando um ambiente de prova, incentivando o estudo contínuo e a revisão de conteúdos.
-
-### Execução do Produto
-O quiz está funcional: permite responder perguntas e consultar as respostas corretas na página de resultado.
-
-### Pertinência das Informações
-As questões foram cuidadosamente selecionadas com base no conteúdo programático do 1º ano, garantindo relevância e coerência.
-
-### Relacionamento de Conceitos
-O quiz integra conceitos de múltiplas disciplinas (Português, Matemática, Ciências, História), promovendo uma abordagem interdisciplinar do conhecimento.
-
----
-
-## Como Subir no GitHub e Criar Link Público
-1. Crie uma conta no [GitHub](https://github.com/) se ainda não tiver.  
-2. Clique em **New Repository** e nomeie como `quiz-paulista`.  
-3. Faça upload dos arquivos `trabalho.html`, `resultado.html` e `README.md`.  
-4. Clique em **Commit Changes**.  
-5. Vá em **Settings → Pages**, selecione **Branch: main → / (root)** e salve.  
-6. O GitHub gerará um link público, algo como:  

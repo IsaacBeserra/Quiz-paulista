@@ -6,7 +6,7 @@ Este projeto foi desenvolvido por **Isaac Beserra da Silva Acioli** e **Miguel M
 ## Etec
 O trabalho foi realizado na **Etec de Taboão da Serra**, instituição que forneceu suporte e orientação durante o desenvolvimento.
 
-## Componente Curricular
+## Materia
 O projeto faz parte das atividades do componente **TPA**, integrando prática e aplicação dos conhecimentos adquiridos em sala de aula.
 
 ---
@@ -23,3 +23,4 @@ O sistema oferece questões de várias disciplinas, permitindo que os estudantes
 3. Clique no botão **Enviar** ao final do quiz.  
 4. O quiz irá redirecionar para `resultado.html`, onde você poderá conferir as respostas corretas.  
 5. Para adicionar ou modificar perguntas, edite diretamente o arquivo `trabalho.html`.
+

@@ -18,9 +18,8 @@ O sistema oferece questões de várias disciplinas, permitindo que os estudantes
 ---
 
 ## Manual de Instruções
-1. Abra o arquivo `trabalho.html` no navegador.  
-2. Leia cada pergunta e selecione a alternativa correta.  
-3. Clique no botão **Enviar** ao final do quiz.  
-4. O quiz irá redirecionar para `resultado.html`, onde você poderá conferir as respostas corretas.  
-5. Para adicionar ou modificar perguntas, edite diretamente o arquivo `trabalho.html`.
+1. Baixe o documento `trabalho prolista.zip` .
+2. Extraia o documento.
+3. Abra o SharpDevelop e abra o trabalho.sln.
+4. clique em F5 e comece o quiz!
 
